@@ -20,4 +20,4 @@ The various types of documents it consists are:
 -- Gantt Chart
 -- Customer Survey Details
 
-These documents are required i=at different stage of project lifecycle and each one of them has their different work.
+These documents are required at different stage of project lifecycle and each one of them has their different work.
